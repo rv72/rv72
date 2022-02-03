@@ -2,7 +2,7 @@
 
 🌱  I’m currently majoring in Computer Science 
 
-👀  Specializing in Machine Intelligence and Software Engineering
+👀  Specializing in Software Engineering and Machine Intelligence
 
 ✨  Graduating May 2023 from Purdue
 
