@@ -4,6 +4,6 @@
 
 👀  Specializing in Software Engineering and Machine Intelligence
 
-✨  Graduating December 2023 from Purdue
+✨  Graduated December 2023 from Purdue
 
 📫  How to reach me : reuben.smdp@gmail.com
